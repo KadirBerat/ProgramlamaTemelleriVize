@@ -1,4 +1,13 @@
-﻿using System;
+//<----- License Notice Start ----->
+//Repository => https://github.com/KadirBerat/ProgramlamaTemelleriVize.git
+//This program is licensed under the Apache License 2.0.
+//Learn more about repository licenses. => https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#disclaimer
+//License File => https://github.com/KadirBerat/ProgramlamaTemelleriVize/blob/main/LICENSE
+//Copyright 2021 Kadir Berat Güventürk
+//<-- !!! Do not remove. !!! -->
+//<----- License Notice End ----->
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
