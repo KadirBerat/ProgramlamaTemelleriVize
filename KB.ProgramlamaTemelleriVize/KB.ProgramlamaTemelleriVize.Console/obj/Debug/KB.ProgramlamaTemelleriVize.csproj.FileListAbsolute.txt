@@ -1,0 +1,7 @@
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\bin\Debug\KB.ProgramlamaTemelleriVize.Console.exe.config
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\bin\Debug\KB.ProgramlamaTemelleriVize.Console.exe
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\bin\Debug\KB.ProgramlamaTemelleriVize.Console.pdb
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\obj\Debug\KB.ProgramlamaTemelleriVize.csprojAssemblyReference.cache
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\obj\Debug\KB.ProgramlamaTemelleriVize.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\obj\Debug\KB.ProgramlamaTemelleriVize.Console.exe
+C:\Users\kadir\source\repos\KB.ProgramlamaTemelleriVize\KB.ProgramlamaTemelleriVize.Console\obj\Debug\KB.ProgramlamaTemelleriVize.Console.pdb
